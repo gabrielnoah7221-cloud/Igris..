@@ -1,0 +1,1 @@
+IGRIS V2. Replace the five app files in your GitHub Pages repository root. Keep index.html, manifest.webmanifest, sw.js and both icons. After Pages rebuilds, refresh the site. If the installed app shows the old version, uninstall Igris once and reinstall it.
